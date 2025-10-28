@@ -31,6 +31,7 @@ Tools: Nodemon, Git, Postman
 Clone the repository
 
 git clone https://github.com/sunny-raj-sah/Real-time-device-tracker.git
+
 cd real-time-tracker
 
 Install dependencies
